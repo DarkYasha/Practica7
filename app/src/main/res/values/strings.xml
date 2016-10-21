@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practica 7</string>
+    <string name="opuesto">Cateto Opuesto</string>
+    <string name="adyacente">Cateto Adyacente</string>
+    <string name="calcular">Calcular</string>
+    <string name="Hipo">Hipotenusa</string>
+    <string name="area">Area</string>
+    <string name="perimetro">Perimetro</string>
+</resources>
